@@ -1,7 +1,7 @@
 
 # Página Web de Ayuda para ludopatas
 
-(https://www.guadalsalus.com/images/easyblog_articles/366/soy-ludopata.jpg))
+([https://www.guadalsalus.com/images/easyblog_articles/366/soy-ludopata.jpg](https://www.guadalsalus.com/images/easyblog_articles/366/soy-ludopata.jpg)))
 
 ## Descripción del Proyecto
 
