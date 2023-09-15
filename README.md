@@ -3,7 +3,7 @@
 
 Bienvenido a nuestra página web de ayuda a los ludópatas. Estamos aquí para brindar apoyo, información y recursos a las personas que luchan contra la ludopatía. Nuestro compromiso es ayudarte en tu camino hacia la recuperación.
 
-![Imagen de portada]("C:\Users\ESTUDIANTE\Desktop\ludoptatia.jpg")
+("C:\Users\ESTUDIANTE\Desktop\ludoptatia.jpg")
 
 ## Contenido
 
