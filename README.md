@@ -1,7 +1,7 @@
-# Andreslaguna98.github.io
-# Página Web de Ayuda para Ludópatas
 
-![Imagen de la página web](link-a-la-imagen.png)
+# Página Web de Ayuda para ludopatas
+
+![Imagen de la página web]([link-a-la-imagen.png](https://www.guadalsalus.com/images/easyblog_articles/366/soy-ludopata.jpg))
 
 ## Descripción del Proyecto
 
