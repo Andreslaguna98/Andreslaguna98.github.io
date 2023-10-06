@@ -47,7 +47,7 @@ Si necesitas ayuda, información adicional o simplemente quieres hablar con algu
 
 - Correo Electrónico: contacto@ayuda-ludopatia.com
 - Teléfono: +123 456 789
-- [Formulario de contacto](enlace-formulario-de-contacto.md)
+- [[Formulario de contacto](enlace-formulario-de-contacto.md)](https://www.doctoralia.co/enfermedades/ludopatia-compulsiva/bogota)
 
 ![Imagen de contacto](ruta/imagen-contacto.jpg)
 
