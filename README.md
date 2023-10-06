@@ -57,5 +57,5 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo [LICENSE](
 
 ---
 
-**Nota**: Este es un ejemplo de cómo podría estructurarse un archivo README.md. Debes personalizarlo y adaptarlo a las necesidades específicas de tu página web y tu audiencia.
+
 
