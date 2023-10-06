@@ -49,7 +49,7 @@ Si necesitas ayuda, información adicional o simplemente quieres hablar con algu
 - Teléfono: +123 456 789
 - Contacto:(https://www.doctoralia.co/enfermedades/ludopatia-compulsiva/bogota)
 
-![Imagen de contacto](ruta/imagen-contacto.jpg)
+[![contactyo.png](https://i.postimg.cc/bryN5dJp/contactyo.png)](https://postimg.cc/34qT48mc)
 
 ## Licencia
 
