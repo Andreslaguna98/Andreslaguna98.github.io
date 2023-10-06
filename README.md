@@ -46,7 +46,7 @@ Nada es más inspirador que escuchar las historias de personas que han superado 
 Si necesitas ayuda, información adicional o simplemente quieres hablar con alguien que entienda lo que estás pasando, no dudes en ponerte en contacto con nosotros.
 
 - Correo Electrónico: contacto@ayuda-ludopatia.com
-- Teléfono: +123 456 789
+- Teléfono: +57 319 403 8994
 - Contacto:(https://www.doctoralia.co/enfermedades/ludopatia-compulsiva/bogota)
 
 [![contactyo.png](https://i.postimg.cc/bryN5dJp/contactyo.png)](https://postimg.cc/34qT48mc)
