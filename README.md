@@ -3,8 +3,7 @@
 
 Bienvenido a nuestra página web de ayuda a los ludópatas. Estamos aquí para brindar apoyo, información y recursos a las personas que luchan contra la ludopatía. Nuestro compromiso es ayudarte en tu camino hacia la recuperación.
 
-("C:\Users\ESTUDIANTE\Desktop\ludoptatia.jpg")
-
+[![ruleta.png](https://i.postimg.cc/76p6RCwG/ruleta.png)](https://postimg.cc/TLJfL3yf)
 ## Contenido
 
 - [Sobre Nosotros](#sobre-nosotros)
@@ -26,7 +25,7 @@ La ludopatía puede manifestarse de diferentes maneras. Es importante reconocer 
 - Negligencia de responsabilidades personales.
 - Mentiras sobre la cantidad de tiempo o dinero dedicado al juego.
 
-![Imagen de síntomas](ruta/imagen-síntomas.jpg)
+[![sintomas.webp](https://i.postimg.cc/0jsMVtYK/sintomas.webp)](https://postimg.cc/vg0ZBtSG)
 
 ## Recursos de Ayuda
 
@@ -40,7 +39,7 @@ Para superar la ludopatía, es fundamental contar con el apoyo adecuado. Aquí e
 
 Nada es más inspirador que escuchar las historias de personas que han superado la ludopatía. Descubre cómo otras personas han logrado la recuperación y encuentra esperanza en sus experiencias.
 
-![Imagen de historias de recuperación](ruta/imagen-historias.jpg)
+[![superacion.jpg](https://i.postimg.cc/pXxwQDF9/superacion.jpg)](https://postimg.cc/5j7KbQp1)
 
 ## Contacto
 
