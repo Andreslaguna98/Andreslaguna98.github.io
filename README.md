@@ -13,7 +13,7 @@ Bienvenido a nuestra página web de ayuda a los ludópatas. Estamos aquí para b
 
 ## Sobre Nosotros
 
-Somos un equipo de profesionales y voluntarios comprometidos en brindar ayuda a las personas afectadas por la ludopatía. Nuestra misión es proporcionar información precisa, apoyo emocional y recursos para superar esta adicción.
+Somos un equipo de estudiantes y voluntarios comprometidos en brindar ayuda a las personas afectadas por la ludopatía. Nuestra misión es proporcionar información precisa, apoyo emocional y recursos para superar esta adicción.
 
 ## Síntomas de la Ludopatía
 
