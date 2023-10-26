@@ -31,7 +31,7 @@ La ludopatía puede manifestarse de diferentes maneras. Es importante reconocer 
 Para superar la ludopatía, es fundamental contar con el apoyo adecuado. Aquí encontrarás recursos valiosos, como:
 
 - [Terapeutas especializados](https://www.doctoralia.co/enfermedades/ludopatia-compulsiva/bogota.md)
-- [Grupos de apoyo](https://jugadoresanonimoscolombia.org/.md)
+- [Grupos de apoyo](https://www.webconsultas.com/mente-y-emociones/adicciones/asociaciones-de-ayuda-para-la-ludopatia.md)
 - [Línea de ayuda 24/7](enlace-línea-de-ayuda.md)
 
 ## Historias de Recuperación
