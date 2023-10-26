@@ -50,11 +50,7 @@ Si necesitas ayuda, información adicional o simplemente quieres hablar con algu
 
 [![contactyo.png](https://i.postimg.cc/bryN5dJp/contactyo.png)](https://postimg.cc/34qT48mc)
 
-## Licencia
 
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE.md) para obtener más detalles.
-
----
 
 
 
